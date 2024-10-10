@@ -8,8 +8,5 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=GiuBlockchainDEV&color=grey">
-</p>
-<p align="center">
     <a href="https://github.com/GiuBlockchainDEV"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuBlockchainDEV&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
